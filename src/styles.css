@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
   color: #191B1F;
+  /* border: 1px solid grey; */
 }
 body {
   font-family: Lato, sans-serif;
